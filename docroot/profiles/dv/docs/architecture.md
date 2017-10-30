@@ -1,4 +1,4 @@
-# Architecture - Getting around
+# Architecture - Get around
 
 #### Main high level features overview
 
